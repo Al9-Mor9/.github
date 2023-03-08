@@ -1,4 +1,4 @@
 ## Al9 Mor9
 
-Algorithm Study
-Make it fancy plz
+
++ [Concepts](https://github.com/Al9-Mor9/Concepts)
