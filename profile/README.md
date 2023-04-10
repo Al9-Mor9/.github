@@ -14,7 +14,6 @@
 + [동적 프로그래밍](https://github.com/Al9-Mor9/Dynamic-Programming)
 
 ## CS
-### [개념 정리](https://github.com/Al9-Mor9/CS-study)
+### [Concepts](https://github.com/Al9-Mor9/CS-study)
 
-
-### [LAB]
+### [LAB](#)
