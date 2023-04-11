@@ -13,6 +13,8 @@
 + [그래프](https://github.com/Al9-Mor9/Graphs)
 + [동적 프로그래밍](https://github.com/Al9-Mor9/Dynamic-Programming)
 
++ [개인 선택 문제](https://github.com/Al9-Mor9/Selected-Problems)
+
 ## CS
 ### [Concepts](https://github.com/Al9-Mor9/CS-study)
 
