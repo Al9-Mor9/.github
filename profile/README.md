@@ -17,5 +17,8 @@
 
 ## CS
 ### [Concepts](https://github.com/Al9-Mor9/CS-study)
+[면접을 위한 CS 전공 지식 노트](https://github.com/Al9-Mor9/CS-study/CS_Note)를 읽으며 각자 정리한 내용과   
+[이화여대 KOCW 공개 강의-운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1046323)를 보며 정리한 내용들(https://github.com/Al9-Mor9/CS-study/KOCW)이 있습니다.
 
-### [LAB](#)
+### [LAB](https://github.com/Al9-Mor9/CS-study-lab)
+운영체제 관련 실습을 위해 만든 레포지토리입니다.
