@@ -14,7 +14,7 @@
 + [동적 프로그래밍](https://github.com/Al9-Mor9/Dynamic-Programming)
 
 + [개인 선택 문제](https://github.com/Al9-Mor9/Selected-Problems)
-
++ [알고리즘 재활훈련](https://github.com/Al9-Mor9/Algo-Rehabilitation)
 ## CS
 ### [Concepts](https://github.com/Al9-Mor9/CS-study)
 [면접을 위한 CS 전공 지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)를 읽으며 각자 정리한 내용과   
